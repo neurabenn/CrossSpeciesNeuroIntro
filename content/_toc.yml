@@ -1,9 +1,21 @@
 format: jb-book
-root: 00-simple_markdown
+root: 00-title-page
 parts:
-  - caption: Ipynb
+  - caption: Acquisition
     chapters:
-    - file: 01-simple_notebook
-  - caption: MyST
+    - file: 01-sawiak/01-AcquisitionOptimization
+  - caption: Anatomy
     chapters:
-    - file: 02-simple-myst
+    - file: 02-bryant/02-Anatomy
+  - caption: Structural Connectevity
+    chapters:
+    - file: 03-warrington/03-StructuralConn
+  - caption: Functional Connectevity
+    chapters:
+    - file: 04-xu/04-FC-Hum2Mac
+  - caption: Developmental Trajectories
+    chapters:
+    - file: 05-garza/05-DevoTrajectories
+  - caption: Phylogenetic studies
+    chapters:
+    - file: 06-heuer/06-phylogeny
