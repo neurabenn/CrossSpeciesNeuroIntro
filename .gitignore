@@ -135,6 +135,6 @@ dmypy.json
 .pyre/
 
 # any local builds 
-./content/_build
+.content/_build/
 #any data 
-./data
+.data/
